@@ -1,0 +1,6 @@
+Ensure you install tensorflow to your computer before beginning this project to ensure that the program can access and use the tensorflow package.
+
+You can install tensowflow by accessing your terminal and using the pip install command.
+
+- First, press the Windows Button + R, then typing "cmd" into the prompt (Windows) or Command + SPACE, type "Terminal" in the prompt then select Terminal once it appears in the spotlight search list (Mac).
+- Once the terminal opens up type "pip install tensorflow" and the terminal will begin installing the package onto your computer. Follow any prompts that appear on screen.
